@@ -1,0 +1,61 @@
+body {
+    
+    font-family: 'Lora', serif;
+    color: rgb(153, 190, 223);
+    font-size: 18px;
+}
+
+#header-nav {
+    background-color:  #17e0a3;
+    
+}
+
+.navbar-brand h1 {
+    
+    color:  #eb5c2e;
+    font-family: 'Lora', serif;
+    font-size: 30px;
+}
+
+.navbar-toggler-icon {
+    background-color: aliceblue;
+    
+}
+
+.navbar-toggler {
+    background-color: aliceblue;
+}
+
+li.nav-item {
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+span.nav-link {
+    color: azure;
+}
+
+h2 {
+    margin-top: 15px;
+}
+
+div#main-content {
+    background-color:  #8a6d83;
+}
+
+h2#menu {
+    color: black;
+    font-size: 40px;
+}
+
+div.heading {
+    margin-top: 30px;
+    color: #eb5c2e;
+    font-size: 30px;
+    
+}
+
+div.text-main {
+    color: rgb(226, 219, 219);
+}
